@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Bienvenue sur la page de notre projet de Patio numérique
 
-You can use the [editor on GitHub](https://github.com/MickaelDescamps/Patio_numerique/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Le but de ce projet d'améliorer le patio qui est à côté du Fablab. Pour cela nous avons eu envie d'ajouter une dimension aquatique à cet espace qui est fait de boisn de verre et d'aluminium. Nous avons également eu l'idée d'apporter du mouvement et de la dynamique à travers des jeux de couleurs.
 
 ### Markdown
 
